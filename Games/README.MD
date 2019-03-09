@@ -1,1 +1,1 @@
-# Classic Pong Game!
+# Fun Games!
