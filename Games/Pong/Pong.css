@@ -1,0 +1,57 @@
+html{
+    background: linear-gradient(to right, #ff6a00, #ee0979);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    cursor: none;
+}
+h1{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 100px;
+    position: absolute;
+    margin-top: 100px;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+h2{
+    font-size: 25px;
+    position: absolute;
+    margin-top: 220px;
+    margin-left: 75px;
+
+}
+hr{
+    border-style: solid;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 20px;
+    width: 250px;
+    color: #000000;
+}
+ul{
+    list-style-type: disc;
+    position: absolute;
+    margin-top: 265px;
+    margin-left: 20px;
+}
+
+canvas {
+    background: #1d1d1d;
+    border: #1d1d1d;
+    border-radius: 10px;
+    cursor: none;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    height: 100vh;
+    width: auto;
+}
