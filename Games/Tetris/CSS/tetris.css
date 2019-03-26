@@ -1,0 +1,19 @@
+body {
+  background: #1C2833;
+  text-align: center;
+}
+
+#score {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-style: bolder;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 30px;
+  color: #FFFFFF;
+}
+
+canvas {
+  border: none;
+  border-radius: 10px;
+  height: 90vh;
+}
