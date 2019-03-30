@@ -1,0 +1,15 @@
+html {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  background: #FF5353;
+  text-align: center;
+  font-family: 'Fredoka One', cursive;
+  line-height: 3;
+  font-size: 30px;
+}
+
+pre {
+  text-align: left;
+}
